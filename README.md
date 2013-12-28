@@ -1,0 +1,4 @@
+bash-color
+==========
+
+Terminal colorido
