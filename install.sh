@@ -1,5 +1,5 @@
 #!/bin/bash
 #
-cp -a ~.bashrc
+cp -a ~/.bashrc
 mv .bashrc /root
 rm install.sh
