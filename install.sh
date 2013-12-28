@@ -1,3 +1,3 @@
 #!/bin/bash
 #
-mv bashrc ~/.bashrc /root/.bashrc
+mv bashrc ~/.bashrc /root/
